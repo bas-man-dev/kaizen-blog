@@ -1,4 +1,3 @@
-import "./App.css";
 import Home from "./components/Home";
 import Navbar from "./components/Navbar";
 
@@ -13,7 +12,6 @@ function App() {
         <Home />
       </div>
 
-      <p>liked {likes} times</p>
     </div>
   );
 }
